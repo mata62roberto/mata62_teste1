@@ -1,10 +1,41 @@
 # TERMOS DE ES
 
+SOFTWARE
+ENGENHARIA DE SOFTWARE
+PROCESSO DE SOFTWARE
+MODELO DE PROCESSO DE SOFTWARE
+QUALIDADE DE SOFTWARE
+TESTE DE SOFTWARE
+EVOLUCAO DE SOFTWARE
+SEGURANCA DE SOFTWARE
+REUSO DE SOFTWARE
+DISTRIBUICAO DE SOFTWARE
+ADMINISTRACAO DE SOFTWARE
+
+
 1. SOMERVILLE
 
-ES e uma disciplina de engenharia que esta relacionada com todos os aspectos da producao de software
+Softwares sao programas de computador e sua documentacao associada.
+
+ES e uma disciplina de engenharia que esta relacionada com todos os aspectos da producao de software.
 
 Processo de software sao as atividades envolvidas na producao de um sistema de software.
 
 Modelos de processo de software sao as representacoes abstratas desses processos.
+
+Qualidade de software siginifica atendimento a demanda do usuario e deve ser confiavel e utilizavel e ter capacidade de ser mantido.
+
+Teste de software inclui teste dos componentes e metodos do software, teste dos componentes relacionados e teste do sistema completo.
+
+Evolucao de software representa um processo interativo e integrado do sistema que pode ser representado usando um modelo em espiral.
+
+Seguranca de software representa como desenvolver e amnter um software que pode resistir a outros sistemas cujo objetivo e danificar seus dados.
+
+Reuso de software significa desenvolvimento de novos sistemas utilizando conhecimento e codigo utilizado em outro software, com a vantagem de reduzir custos, maior velocidade de desenvolvimento e menor risco.
+
+Administracao de software significa controlar um produto que e intagivel, identificando seus riscos de falhas e tomando acoes preventivas.
+
+
+
+
 
