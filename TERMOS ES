@@ -1,4 +1,6 @@
 
+
+
 # TERMOS DE ES
 
 SOFTWARE
@@ -10,9 +12,7 @@ TESTE DE SOFTWARE
 EVOLUCAO DE SOFTWARE
 SEGURANCA DE SOFTWARE
 REUSO DE SOFTWARE
-DISTRIBUICAO DE SOFTWARE
 ADMINISTRACAO DE SOFTWARE
-
 
 1. SOMERVILLE
 
@@ -24,25 +24,48 @@ Processo de software sao as atividades envolvidas na producao de um sistema de s
 
 Modelos de processo de software sao as representacoes abstratas desses processos.
 
-Qualidade de software siginifica atendimento a demanda do usuario e deve ser confiavel e utilizavel e ter capacidade de ser mantido.
+Qualidade de software siginifica atendimento a demanda do usuario e implica que o software deve ser confiavel, utilizavel e ter 
+capacidade de ser mantido.
 
 Teste de software inclui teste dos componentes e metodos do software, teste dos componentes relacionados e teste do sistema completo.
 
 Evolucao de software representa um processo interativo e integrado do sistema que pode ser representado usando um modelo em espiral.
 
-Seguranca de software representa como desenvolver e amnter um software que pode resistir a outros sistemas cujo objetivo e danificar
-seus dados.
+Seguranca de software significa desenvolver e manter um software que pode resistir a outros sistemas cujo objetivo e danificar
+seus dados e/ou seus componentes.
 
 Reuso de software significa desenvolvimento de novos sistemas utilizando conhecimento e codigo utilizado em outro software, com a 
 vantagem de reduzir custos, maior velocidade de desenvolvimento e menor risco.
 
-Administracao de software significa controlar um produto que e intagivel, identificando seus riscos de falhas e tomando acoes 
-preventivas.
+Administracao de software significa controlar um produto que e intagivel, controlando seus custos, identificando seus riscos de falhas
+e tomando acoes preventivas e entregando produto final ao usuario.
 
-2. GHEZZI
+2. PRESSMAN
 
-Reuso de software e mais aplicado em componentes do software do que ao produto completo. Por exemplo, varias livrarias em FORTRAN
-foram reescritas em C e C++.
+Softwares sao programas de computador que quando executados provem as funcoes e performances desejadas.
+
+ES representa um processo e um conjunto de metodos que permitem aos profissionais desenvolverem software.
+
+Processo de software e uma colecao de atividades, acoes e tarefasque sao realizadas quando algum produto esta sendo criado.
+
+Modelos de processo de software sao as representacoes criadas para melhor entendimento das requisicoes do software.
+
+Qualidade de software representa uma camada da estrutura do processo de fabricacao do software adicionada as camadas basicas de
+comunicacao, planejamento, modelagem, construcao e entrega do produto e que visa garantir a sua adequacao as demandas do usuario.
+
+Teste de software representa uma etapa do processo de construcao do software, vindo entre as etapas de modelagem e suporte, visando 
+assegurar a qualidade do produto.
+
+Evolucao de software representa um modelo de de contrucao de software que produz uma versao mais completa a cada processo interativo.
+
+Seguranca de software significa a aplicacao de metodos na construcao de softwares que atendem sistemas criticos, como, por exemplo, 
+sistemas de aviacao e sistemas medicos.
+
+Reuso de software define os criterios de trabalho para o reuso do produto, incluindo seus componentes e estabelece os mecanismos
+para a obtencao desses componentes.
+
+Administracao de software significa o processo de comunicacao, planejamento, modelagem, construcao e entrega do produto atraves de
+um numero de etapas iterativas.
 
 
 
