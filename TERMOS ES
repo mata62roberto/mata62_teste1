@@ -1,3 +1,4 @@
+
 # TERMOS DE ES
 
 SOFTWARE
@@ -29,13 +30,19 @@ Teste de software inclui teste dos componentes e metodos do software, teste dos 
 
 Evolucao de software representa um processo interativo e integrado do sistema que pode ser representado usando um modelo em espiral.
 
-Seguranca de software representa como desenvolver e amnter um software que pode resistir a outros sistemas cujo objetivo e danificar seus dados.
+Seguranca de software representa como desenvolver e amnter um software que pode resistir a outros sistemas cujo objetivo e danificar
+seus dados.
 
-Reuso de software significa desenvolvimento de novos sistemas utilizando conhecimento e codigo utilizado em outro software, com a vantagem de reduzir custos, maior velocidade de desenvolvimento e menor risco.
+Reuso de software significa desenvolvimento de novos sistemas utilizando conhecimento e codigo utilizado em outro software, com a 
+vantagem de reduzir custos, maior velocidade de desenvolvimento e menor risco.
 
-Administracao de software significa controlar um produto que e intagivel, identificando seus riscos de falhas e tomando acoes preventivas.
+Administracao de software significa controlar um produto que e intagivel, identificando seus riscos de falhas e tomando acoes 
+preventivas.
 
+2. GHEZZI
 
+Reuso de software e mais aplicado em componentes do software do que ao produto completo. Por exemplo, varias livrarias em FORTRAN
+foram reescritas em C e C++.
 
 
 
