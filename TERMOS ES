@@ -25,7 +25,8 @@ Modelos de processo de software sao as representacoes abstratas desses processos
 Qualidade de software siginifica atendimento a demanda do usuario e implica que o software deve ser confiavel, utilizavel e ter 
 capacidade de ser mantido.
 
-Teste de software inclui teste dos componentes e metodos do software, teste dos componentes relacionados e teste do sistema completo.
+Teste de software significa o teste dos componentes e metodos do software, teste dos componentes relacionados e teste do sistema
+completo.
 
 Evolucao de software representa um processo interativo e integrado do sistema que pode ser representado usando um modelo em espiral.
 
@@ -35,16 +36,16 @@ seus dados e/ou seus componentes.
 Reuso de software significa desenvolvimento de novos sistemas utilizando conhecimento e codigo utilizado em outro software, com a 
 vantagem de reduzir custos, maior velocidade de desenvolvimento e menor risco.
 
-Administracao de software significa controlar um produto que e intagivel, controlando seus custos, identificando seus riscos de falhas
-e tomando acoes preventivas e entregando produto final ao usuario.
+Administracao de software significa controlar um produto que e intangivel, controlando seus custos, identificando seus riscos de 
+falhas, tomando acoes preventivas e entregando produto final ao usuario.
 
 2. PRESSMAN
 
-Softwares sao programas de computador que quando executados provem as funcoes e performances desejadas.
+Softwares sao programas de computador que quando executados dao provimento as funcoes e performances desejadas.
 
 ES representa um processo e um conjunto de metodos que permitem aos profissionais desenvolverem software.
 
-Processo de software e uma colecao de atividades, acoes e tarefasque sao realizadas quando algum produto esta sendo criado.
+Processo de software e uma colecao de atividades, acoes e tarefas que sao realizadas quando algum produto esta sendo criado.
 
 Modelos de processo de software sao as representacoes criadas para melhor entendimento das requisicoes do software.
 
@@ -54,16 +55,41 @@ comunicacao, planejamento, modelagem, construcao e entrega do produto e que visa
 Teste de software representa uma etapa do processo de construcao do software, vindo entre as etapas de modelagem e suporte, visando 
 assegurar a qualidade do produto.
 
-Evolucao de software representa um modelo de de contrucao de software que produz uma versao mais completa a cada processo interativo.
+Evolucao de software representa um modelo de contrucao de software que produz uma versao mais completa a cada processo interativo.
 
 Seguranca de software significa a aplicacao de metodos na construcao de softwares que atendem sistemas criticos, como, por exemplo, 
 sistemas de aviacao e sistemas medicos.
 
-Reuso de software define os criterios de trabalho para o reuso do produto, incluindo seus componentes e estabelece os mecanismos
+Reuso de software define os criterios de trabalho para o reuso do codigo, incluindo seus componentes e estabelece os mecanismos
 para a obtencao desses componentes.
 
 Administracao de software significa o processo de comunicacao, planejamento, modelagem, construcao e entrega do produto atraves de
-um numero de etapas iterativas.
+um numero de etapas interativas.
+
+3. GHEZZI
+
+Software sao as ferramentas centrais usadas no desenvolvimento dos sistemas.
+
+ES e a aplicacao dos metodos de engenharia ao software.
+
+Processo de software e o ciclo de construcao do software que compreende as fases de analise de necessidades, especificacao, codificacao
+e testes modulares, integracao e teste do sistema e, por fim, entrega ao usuario e manutencao do sistema.
+
+Modelos de processo de software sao as ferramentas utilizadas na elaboracao do software.
+
+Qualidade de software deve atender aos requisitos de funcionalidade, confiabilidade, robustez e performance. Tambem deve ser um sistema
+amigavel ao usuario e permitir facil manutencao.
+
+Testes de software sao metodos formais ou informais que devem ser realizados no produto para verificar a sua operacionalidade.
+
+Evolucao de software representa a modificacao de um produto para construir uma nova versao do mesmo produto.
+
+Seguranca de software significa a capacidade do sistema de protecao dos seus dados contra acessos nao autorizados.
+
+Reuso de software e uma qualidade ligada a evolucao do software. Isto e, usamos o mesmo produto para construir um novo produto.
+
+Administracao de software significa a relacao entre os metodos e tecnicas, metodologias e ferramentas utilizadas na construcao
+do software.
 
 
 
